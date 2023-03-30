@@ -9,7 +9,11 @@ This assignment consists of two technical products. You will submit the followin
 ### Part 1: Scrape Titles and Preview Text from Mars News
 1. Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
 2. Create a Beautiful Soup object and use it to extract text elements from the website.
-3. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
+3. Extract the titles and preview text of the news articles that you scraped. 
+![image](https://user-images.githubusercontent.com/62813833/228657529-5ce0955c-c96e-44cf-9d07-310817c664bf.png)
+
+
+
 
 ### Part 2: Scrape and Analyze Mars Weather Data
 1. Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape.
@@ -29,3 +33,5 @@ This assignment consists of two technical products. You will submit the followin
 - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 - Visually estimate the result by plotting the daily minimum temperature.
 6. Export the DataFrame to a CSV file.
+![image](https://user-images.githubusercontent.com/62813833/228657300-6a3cc803-b2cf-451f-a03c-5e1d05539d7a.png)
+
